@@ -1,31 +1,11 @@
 <img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 
-# Meroser's IPTV📺
-欢迎来到Meroser的直播源仓库🎉
-
-🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
-
-- 🔮本播放列表完美集成**高清台标**
-
-- 💯EPG深度**定制匹配**频道列表|**完美匹配**
-
-- 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
-
-🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [点击链接加入群聊【IPTV交流群2】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=9Wkxjig1P6jvlrJAHprasyalhBvejXl3&authKey=XUyNW6ZkFzXqpjT0VqMOypkY7mT2paKTn9MZnviZ0zyQHXdjEHTbttjId3KWr%2Fnf&noverify=0&group_code=839970414)
+# IPTV📺
 
 ## 📖说明
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
-
-<p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Meroser/IPTV">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
-<img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
-</p>
 
 ## 🏄‍♀️源地址
 
